@@ -1,0 +1,28 @@
+#!/bin/bash
+#SBATCH --job-name=wsn_job	 ### name your job 
+#SBATCH --time=00:30:00		 ### hh:mm:ss or dd-hh:mm:ss
+#SBATCH --mem=32G				 ### memory setting is max @ 4 GB per core
+#SBATCH --ntasks=21				 ### launch given number of mpi processes
+#SBATCH --cpus-per-task=1		 ### 
+#SBATCH --ntasks-per-node=21   ### on the same compute node
+
+#SBATCH --partition=short,comp,gpu
+
+#SBATCH --output=wsn.%j.out
+
+module load openmpi/1.10.7-mlx
+
+if [ ! -f wsn ]
+then
+ mpicc WSN_Simulation_Main_Monarch.c Base_Station_Monarch.c Sensor_Nodes.c Helper_Functions.c -o wsn -fopenmp -std=c99 -D_POSIX_C_SOURCE=199309L
+else
+ if [ WSN_Simulation_Main_Monarch.c Base_Station_Monarch.c Sensor_Nodes.c Helper_Functions.c -nt wsn ]
+ then
+  mpicc WSN_Simulation_Main_Monarch.c Base_Station_Monarch.c Sensor_Nodes.c Helper_Functions.c -o wsn -fopenmp -std=c99 -D_POSIX_C_SOURCE=199309L
+ fi
+fi
+
+srun wsn 
+
+exit 0
+

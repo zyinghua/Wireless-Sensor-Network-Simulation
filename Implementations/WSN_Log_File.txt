@@ -1,0 +1,1764 @@
+******************************************************
+Base Station Log File:
+Number of sensor nodes: 12. Grid Dimension = [4 x 3]
+Threshold: 6000
+Number of Base Station Iterations: 20
+******************************************************
+-----------------------------------------------------------------------
+Iteration: 3
+Logged time: 2021-10-18 18:53:11
+Alert reported time: 2021-10-18 18:53:11
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+7	        		(2,1)		6017.279	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		6022.493	127.0.1.1
+10	        		(3,1)		6039.131	127.0.1.1
+6	        		(2,0)		5818.859	127.0.1.1
+8	        		(2,2)		5997.382	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.01381
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 3
+Logged time: 2021-10-18 18:53:11
+Alert reported time: 2021-10-18 18:53:11
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+10	        		(3,1)		6039.131	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+7	        		(2,1)		6017.279	127.0.1.1
+9	        		(3,0)		6030.531	127.0.1.1
+11	        		(3,2)		5997.916	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.03436
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 4
+Logged time: 2021-10-18 18:53:16
+Alert reported time: 2021-10-18 18:53:16
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+10	        		(3,1)		6068.552	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+7	        		(2,1)		5973.644	127.0.1.1
+9	        		(3,0)		5974.691	127.0.1.1
+11	        		(3,2)		6120.184	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.01931
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 4
+Logged time: 2021-10-18 18:53:16
+Alert reported time: 2021-10-18 18:53:16
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+11	        		(3,2)		6120.184	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+8	        		(2,2)		6093.880	127.0.1.1
+10	        		(3,1)		6068.552	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:12
+Satellite altimeter reporting height (m): 6006.880
+Satellite altimeter reporting Coord : (3,2)
+
+Communication Time (seconds): 0.01409
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 5
+Logged time: 2021-10-18 18:53:21
+Alert reported time: 2021-10-18 18:53:21
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+4	        		(1,1)		6128.309	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+1	        		(0,1)		5724.857	127.0.1.1
+7	        		(2,1)		6078.225	127.0.1.1
+3	        		(1,0)		6227.323	127.0.1.1
+5	        		(1,2)		6031.344	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.02645
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 5
+Logged time: 2021-10-18 18:53:21
+Alert reported time: 2021-10-18 18:53:21
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6031.344	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		6021.637	127.0.1.1
+8	        		(2,2)		6090.125	127.0.1.1
+4	        		(1,1)		6128.309	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:20
+Satellite altimeter reporting height (m): 6442.107
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.03695
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 5
+Logged time: 2021-10-18 18:53:21
+Alert reported time: 2021-10-18 18:53:21
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+7	        		(2,1)		6078.225	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		6128.309	127.0.1.1
+10	        		(3,1)		6107.514	127.0.1.1
+6	        		(2,0)		5941.095	127.0.1.1
+8	        		(2,2)		6090.125	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.05362
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 5
+Logged time: 2021-10-18 18:53:21
+Alert reported time: 2021-10-18 18:53:21
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+8	        		(2,2)		6090.125	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		6031.344	127.0.1.1
+11	        		(3,2)		6115.767	127.0.1.1
+7	        		(2,1)		6078.225	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.05777
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 5
+Logged time: 2021-10-18 18:53:21
+Alert reported time: 2021-10-18 18:53:21
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+10	        		(3,1)		6107.514	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+7	        		(2,1)		6078.225	127.0.1.1
+9	        		(3,0)		5896.387	127.0.1.1
+11	        		(3,2)		6115.767	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.00346
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 5
+Logged time: 2021-10-18 18:53:21
+Alert reported time: 2021-10-18 18:53:21
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+11	        		(3,2)		6115.767	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+8	        		(2,2)		6090.125	127.0.1.1
+10	        		(3,1)		6107.514	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:12
+Satellite altimeter reporting height (m): 6006.880
+Satellite altimeter reporting Coord : (3,2)
+
+Communication Time (seconds): 0.03992
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 6
+Logged time: 2021-10-18 18:53:26
+Alert reported time: 2021-10-18 18:53:26
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+4	        		(1,1)		6079.142	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+1	        		(0,1)		5784.126	127.0.1.1
+7	        		(2,1)		5982.518	127.0.1.1
+3	        		(1,0)		6214.152	127.0.1.1
+5	        		(1,2)		6045.030	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.02921
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 6
+Logged time: 2021-10-18 18:53:26
+Alert reported time: 2021-10-18 18:53:26
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6045.030	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		6045.574	127.0.1.1
+8	        		(2,2)		5986.205	127.0.1.1
+4	        		(1,1)		6079.142	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:20
+Satellite altimeter reporting height (m): 6442.107
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.02636
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 7
+Logged time: 2021-10-18 18:53:31
+Alert reported time: 2021-10-18 18:53:31
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6055.755	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		5979.841	127.0.1.1
+8	        		(2,2)		5958.054	127.0.1.1
+4	        		(1,1)		5995.634	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:20
+Satellite altimeter reporting height (m): 6442.107
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.01885
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 8
+Logged time: 2021-10-18 18:53:36
+Alert reported time: 2021-10-18 18:53:36
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+2	        		(0,2)		6013.156	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		6065.504	127.0.1.1
+1	        		(0,1)		5967.220	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:18
+Satellite altimeter reporting height (m): 6083.953
+Satellite altimeter reporting Coord : (0,2)
+
+Communication Time (seconds): 0.00866
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 8
+Logged time: 2021-10-18 18:53:36
+Alert reported time: 2021-10-18 18:53:36
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+6	        		(2,0)		6020.656	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+3	        		(1,0)		6166.362	127.0.1.1
+9	        		(3,0)		6030.107	127.0.1.1
+7	        		(2,1)		6075.554	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:28
+Satellite altimeter reporting height (m): 6124.983
+Satellite altimeter reporting Coord : (2,0)
+
+Communication Time (seconds): 0.04224
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 9
+Logged time: 2021-10-18 18:53:41
+Alert reported time: 2021-10-18 18:53:41
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+1	        		(0,1)		6009.694	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		6029.640	127.0.1.1
+0	        		(0,0)		6165.985	127.0.1.1
+2	        		(0,2)		6047.849	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:38
+Satellite altimeter reporting height (m): 6168.711
+Satellite altimeter reporting Coord : (0,1)
+
+Communication Time (seconds): 0.02209
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 9
+Logged time: 2021-10-18 18:53:41
+Alert reported time: 2021-10-18 18:53:41
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+2	        		(0,2)		6047.849	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		6075.958	127.0.1.1
+1	        		(0,1)		6009.694	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:18
+Satellite altimeter reporting height (m): 6083.953
+Satellite altimeter reporting Coord : (0,2)
+
+Communication Time (seconds): 0.04761
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 9
+Logged time: 2021-10-18 18:53:41
+Alert reported time: 2021-10-18 18:53:41
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+4	        		(1,1)		6029.640	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+1	        		(0,1)		6009.694	127.0.1.1
+7	        		(2,1)		6071.517	127.0.1.1
+3	        		(1,0)		6192.772	127.0.1.1
+5	        		(1,2)		6075.958	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.05899
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 9
+Logged time: 2021-10-18 18:53:41
+Alert reported time: 2021-10-18 18:53:41
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6075.958	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		6047.849	127.0.1.1
+8	        		(2,2)		5803.892	127.0.1.1
+4	        		(1,1)		6029.640	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:20
+Satellite altimeter reporting height (m): 6442.107
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.05485
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 10
+Logged time: 2021-10-18 18:53:47
+Alert reported time: 2021-10-18 18:53:47
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+1	        		(0,1)		6070.500	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		6046.780	127.0.1.1
+0	        		(0,0)		6015.649	127.0.1.1
+2	        		(0,2)		6070.588	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:42
+Satellite altimeter reporting height (m): 6133.918
+Satellite altimeter reporting Coord : (0,1)
+
+Communication Time (seconds): 0.01213
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 10
+Logged time: 2021-10-18 18:53:47
+Alert reported time: 2021-10-18 18:53:47
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+2	        		(0,2)		6070.588	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		6086.466	127.0.1.1
+1	        		(0,1)		6070.500	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:18
+Satellite altimeter reporting height (m): 6083.953
+Satellite altimeter reporting Coord : (0,2)
+
+Communication Time (seconds): 0.02586
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 10
+Logged time: 2021-10-18 18:53:47
+Alert reported time: 2021-10-18 18:53:47
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+4	        		(1,1)		6046.780	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+1	        		(0,1)		6070.500	127.0.1.1
+7	        		(2,1)		6076.408	127.0.1.1
+3	        		(1,0)		6218.433	127.0.1.1
+5	        		(1,2)		6086.466	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.01250
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 10
+Logged time: 2021-10-18 18:53:47
+Alert reported time: 2021-10-18 18:53:47
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6086.466	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		6070.588	127.0.1.1
+8	        		(2,2)		5775.771	127.0.1.1
+4	        		(1,1)		6046.780	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:20
+Satellite altimeter reporting height (m): 6442.107
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.02850
+Total Messages send between reporting node and base station: 5
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 11
+Logged time: 2021-10-18 18:53:52
+Alert reported time: 2021-10-18 18:53:52
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+1	        		(0,1)		6030.061	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		6196.572	127.0.1.1
+0	        		(0,0)		6011.243	127.0.1.1
+2	        		(0,2)		6093.074	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:42
+Satellite altimeter reporting height (m): 6133.918
+Satellite altimeter reporting Coord : (0,1)
+
+Communication Time (seconds): 0.01065
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 11
+Logged time: 2021-10-18 18:53:52
+Alert reported time: 2021-10-18 18:53:52
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+2	        		(0,2)		6093.074	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		6101.049	127.0.1.1
+1	        		(0,1)		6030.061	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:18
+Satellite altimeter reporting height (m): 6083.953
+Satellite altimeter reporting Coord : (0,2)
+
+Communication Time (seconds): 0.03713
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 11
+Logged time: 2021-10-18 18:53:52
+Alert reported time: 2021-10-18 18:53:52
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+4	        		(1,1)		6196.572	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+1	        		(0,1)		6030.061	127.0.1.1
+7	        		(2,1)		6180.460	127.0.1.1
+3	        		(1,0)		6307.063	127.0.1.1
+5	        		(1,2)		6101.049	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.01703
+Total Messages send between reporting node and base station: 5
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 11
+Logged time: 2021-10-18 18:53:52
+Alert reported time: 2021-10-18 18:53:52
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6101.049	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		6093.074	127.0.1.1
+8	        		(2,2)		5770.465	127.0.1.1
+4	        		(1,1)		6196.572	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:20
+Satellite altimeter reporting height (m): 6442.107
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.01210
+Total Messages send between reporting node and base station: 6
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 12
+Logged time: 2021-10-18 18:53:57
+Alert reported time: 2021-10-18 18:53:57
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+1	        		(0,1)		6090.091	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		6147.803	127.0.1.1
+0	        		(0,0)		5907.522	127.0.1.1
+2	        		(0,2)		6116.729	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:42
+Satellite altimeter reporting height (m): 6133.918
+Satellite altimeter reporting Coord : (0,1)
+
+Communication Time (seconds): 0.02275
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 12
+Logged time: 2021-10-18 18:53:57
+Alert reported time: 2021-10-18 18:53:57
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+2	        		(0,2)		6116.729	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		6114.852	127.0.1.1
+1	        		(0,1)		6090.091	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:18
+Satellite altimeter reporting height (m): 6083.953
+Satellite altimeter reporting Coord : (0,2)
+
+Communication Time (seconds): 0.00973
+Total Messages send between reporting node and base station: 5
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 12
+Logged time: 2021-10-18 18:53:57
+Alert reported time: 2021-10-18 18:53:57
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+4	        		(1,1)		6147.803	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+1	        		(0,1)		6090.091	127.0.1.1
+7	        		(2,1)		6084.038	127.0.1.1
+3	        		(1,0)		6295.442	127.0.1.1
+5	        		(1,2)		6114.852	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.01342
+Total Messages send between reporting node and base station: 6
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 12
+Logged time: 2021-10-18 18:53:57
+Alert reported time: 2021-10-18 18:53:57
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6114.852	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		6116.729	127.0.1.1
+8	        		(2,2)		5864.797	127.0.1.1
+4	        		(1,1)		6147.803	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:52
+Satellite altimeter reporting height (m): 6423.080
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.04700
+Total Messages send between reporting node and base station: 7
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 12
+Logged time: 2021-10-18 18:53:57
+Alert reported time: 2021-10-18 18:53:57
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+7	        		(2,1)		6084.038	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		6147.803	127.0.1.1
+10	        		(3,1)		5990.102	127.0.1.1
+6	        		(2,0)		5856.885	127.0.1.1
+8	        		(2,2)		5864.797	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:54
+Satellite altimeter reporting height (m): 6034.650
+Satellite altimeter reporting Coord : (2,1)
+
+Communication Time (seconds): 0.04921
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 13
+Logged time: 2021-10-18 18:54:02
+Alert reported time: 2021-10-18 18:54:02
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+10	        		(3,1)		6029.962	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+7	        		(2,1)		5988.782	127.0.1.1
+9	        		(3,0)		6107.223	127.0.1.1
+11	        		(3,2)		6037.382	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:50
+Satellite altimeter reporting height (m): 6319.129
+Satellite altimeter reporting Coord : (3,1)
+
+Communication Time (seconds): 0.06646
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 15
+Logged time: 2021-10-18 18:54:12
+Alert reported time: 2021-10-18 18:54:12
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+8	        		(2,2)		6047.885	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		5955.727	127.0.1.1
+11	        		(3,2)		5815.113	127.0.1.1
+7	        		(2,1)		5989.402	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.07401
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 16
+Logged time: 2021-10-18 18:54:17
+Alert reported time: 2021-10-18 18:54:17
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6066.062	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		6133.339	127.0.1.1
+8	        		(2,2)		6120.508	127.0.1.1
+4	        		(1,1)		6020.898	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:52
+Satellite altimeter reporting height (m): 6423.080
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.00006
+Total Messages send between reporting node and base station: 8
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 17
+Logged time: 2021-10-18 18:54:22
+Alert reported time: 2021-10-18 18:54:22
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+3	        		(1,0)		6107.375	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+0	        		(0,0)		6097.259	127.0.1.1
+6	        		(2,0)		6016.923	127.0.1.1
+4	        		(1,1)		6138.914	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:46
+Satellite altimeter reporting height (m): 6101.366
+Satellite altimeter reporting Coord : (1,0)
+
+Communication Time (seconds): 0.05276
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 17
+Logged time: 2021-10-18 18:54:22
+Alert reported time: 2021-10-18 18:54:22
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+4	        		(1,1)		6138.914	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+1	        		(0,1)		5837.255	127.0.1.1
+7	        		(2,1)		5882.495	127.0.1.1
+3	        		(1,0)		6107.375	127.0.1.1
+5	        		(1,2)		6075.510	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:54:08
+Satellite altimeter reporting height (m): 6292.205
+Satellite altimeter reporting Coord : (1,1)
+
+Communication Time (seconds): 0.03523
+Total Messages send between reporting node and base station: 7
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 17
+Logged time: 2021-10-18 18:54:22
+Alert reported time: 2021-10-18 18:54:22
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6075.510	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		6168.078	127.0.1.1
+8	        		(2,2)		6093.471	127.0.1.1
+4	        		(1,1)		6138.914	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:52
+Satellite altimeter reporting height (m): 6423.080
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.03415
+Total Messages send between reporting node and base station: 9
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 17
+Logged time: 2021-10-18 18:54:22
+Alert reported time: 2021-10-18 18:54:22
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+6	        		(2,0)		6016.923	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+3	        		(1,0)		6107.375	127.0.1.1
+9	        		(3,0)		5962.306	127.0.1.1
+7	        		(2,1)		5882.495	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:54:12
+Satellite altimeter reporting height (m): 6008.518
+Satellite altimeter reporting Coord : (2,0)
+
+Communication Time (seconds): 0.00294
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 18
+Logged time: 2021-10-18 18:54:28
+Alert reported time: 2021-10-18 18:54:27
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+3	        		(1,0)		6133.188	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+0	        		(0,0)		6147.985	127.0.1.1
+6	        		(2,0)		6018.685	127.0.1.1
+4	        		(1,1)		6056.299	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:46
+Satellite altimeter reporting height (m): 6101.366
+Satellite altimeter reporting Coord : (1,0)
+
+Communication Time (seconds): 0.11062
+Total Messages send between reporting node and base station: 2
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 18
+Logged time: 2021-10-18 18:54:28
+Alert reported time: 2021-10-18 18:54:28
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+4	        		(1,1)		6056.299	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+1	        		(0,1)		5879.582	127.0.1.1
+7	        		(2,1)		5978.766	127.0.1.1
+3	        		(1,0)		6133.188	127.0.1.1
+5	        		(1,2)		6085.674	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:54:08
+Satellite altimeter reporting height (m): 6292.205
+Satellite altimeter reporting Coord : (1,1)
+
+Communication Time (seconds): 0.03500
+Total Messages send between reporting node and base station: 8
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 18
+Logged time: 2021-10-18 18:54:28
+Alert reported time: 2021-10-18 18:54:28
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6085.674	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		6103.310	127.0.1.1
+8	        		(2,2)		6165.769	127.0.1.1
+4	        		(1,1)		6056.299	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:54:26
+Satellite altimeter reporting height (m): 6018.615
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.08679
+Total Messages send between reporting node and base station: 10
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 18
+Logged time: 2021-10-18 18:54:28
+Alert reported time: 2021-10-18 18:54:28
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+10	        		(3,1)		6057.179	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+7	        		(2,1)		5978.766	127.0.1.1
+9	        		(3,0)		5818.502	127.0.1.1
+11	        		(3,2)		6063.706	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:54:10
+Satellite altimeter reporting height (m): 6400.018
+Satellite altimeter reporting Coord : (3,1)
+
+Communication Time (seconds): 0.00575
+Total Messages send between reporting node and base station: 5
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 19
+Logged time: 2021-10-18 18:54:33
+Alert reported time: 2021-10-18 18:54:33
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6099.865	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		6126.208	127.0.1.1
+8	        		(2,2)		6060.844	127.0.1.1
+4	        		(1,1)		6107.751	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:54:26
+Satellite altimeter reporting height (m): 6018.615
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.04763
+Total Messages send between reporting node and base station: 11
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 19
+Logged time: 2021-10-18 18:54:33
+Alert reported time: 2021-10-18 18:54:33
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+8	        		(2,2)		6060.844	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		6099.865	127.0.1.1
+11	        		(3,2)		6158.221	127.0.1.1
+7	        		(2,1)		5982.742	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:54:16
+Satellite altimeter reporting height (m): 6474.568
+Satellite altimeter reporting Coord : (2,2)
+
+Communication Time (seconds): 0.03551
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 19
+Logged time: 2021-10-18 18:54:33
+Alert reported time: 2021-10-18 18:54:33
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+11	        		(3,2)		6158.221	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+8	        		(2,2)		6060.844	127.0.1.1
+10	        		(3,1)		6097.266	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:53:34
+Satellite altimeter reporting height (m): 6201.427
+Satellite altimeter reporting Coord : (3,2)
+
+Communication Time (seconds): 0.04255
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 20
+Logged time: 2021-10-18 18:55:04
+Alert reported time: 2021-10-18 18:55:04
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+4	        		(1,1)		6008.916	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+1	        		(0,1)		5958.834	127.0.1.1
+7	        		(2,1)		6093.145	127.0.1.1
+3	        		(1,0)		6193.094	127.0.1.1
+5	        		(1,2)		6128.979	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:54:57
+Satellite altimeter reporting height (m): 6322.118
+Satellite altimeter reporting Coord : (1,1)
+
+Communication Time (seconds): 0.00161
+Total Messages send between reporting node and base station: 9
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 24
+Logged time: 2021-10-18 18:55:25
+Alert reported time: 2021-10-18 18:55:25
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+3	        		(1,0)		6110.881	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+0	        		(0,0)		6202.056	127.0.1.1
+6	        		(2,0)		6124.701	127.0.1.1
+4	        		(1,1)		5777.448	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:19
+Satellite altimeter reporting height (m): 6264.699
+Satellite altimeter reporting Coord : (1,0)
+
+Communication Time (seconds): 0.01850
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 25
+Logged time: 2021-10-18 18:55:30
+Alert reported time: 2021-10-18 18:55:30
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+0	        		(0,0)		6098.053	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+3	        		(1,0)		5999.233	127.0.1.1
+1	        		(0,1)		6031.936	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:07
+Satellite altimeter reporting height (m): 6366.306
+Satellite altimeter reporting Coord : (0,0)
+
+Communication Time (seconds): 0.00418
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 25
+Logged time: 2021-10-18 18:55:30
+Alert reported time: 2021-10-18 18:55:30
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+1	        		(0,1)		6031.936	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		5827.849	127.0.1.1
+0	        		(0,0)		6098.053	127.0.1.1
+2	        		(0,2)		5962.296	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:25
+Satellite altimeter reporting height (m): 6341.576
+Satellite altimeter reporting Coord : (0,1)
+
+Communication Time (seconds): 0.01400
+Total Messages send between reporting node and base station: 5
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 25
+Logged time: 2021-10-18 18:55:30
+Alert reported time: 2021-10-18 18:55:30
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+7	        		(2,1)		6145.325	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		5827.849	127.0.1.1
+10	        		(3,1)		6083.520	127.0.1.1
+6	        		(2,0)		6202.109	127.0.1.1
+8	        		(2,2)		6050.622	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.00425
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 25
+Logged time: 2021-10-18 18:55:30
+Alert reported time: 2021-10-18 18:55:30
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+8	        		(2,2)		6050.622	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		6065.476	127.0.1.1
+11	        		(3,2)		6018.003	127.0.1.1
+7	        		(2,1)		6145.325	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:29
+Satellite altimeter reporting height (m): 6304.607
+Satellite altimeter reporting Coord : (2,2)
+
+Communication Time (seconds): 0.02001
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 25
+Logged time: 2021-10-18 18:55:30
+Alert reported time: 2021-10-18 18:55:30
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+10	        		(3,1)		6083.520	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+7	        		(2,1)		6145.325	127.0.1.1
+9	        		(3,0)		5816.905	127.0.1.1
+11	        		(3,2)		6018.003	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:21
+Satellite altimeter reporting height (m): 6372.930
+Satellite altimeter reporting Coord : (3,1)
+
+Communication Time (seconds): 0.04436
+Total Messages send between reporting node and base station: 6
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 25
+Logged time: 2021-10-18 18:55:30
+Alert reported time: 2021-10-18 18:55:30
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+11	        		(3,2)		6018.003	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+8	        		(2,2)		6050.622	127.0.1.1
+10	        		(3,1)		6083.520	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:17
+Satellite altimeter reporting height (m): 6156.142
+Satellite altimeter reporting Coord : (3,2)
+
+Communication Time (seconds): 0.02189
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 26
+Logged time: 2021-10-18 18:55:35
+Alert reported time: 2021-10-18 18:55:35
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+1	        		(0,1)		6092.276	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		5978.589	127.0.1.1
+0	        		(0,0)		5993.225	127.0.1.1
+2	        		(0,2)		6084.891	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:33
+Satellite altimeter reporting height (m): 6024.547
+Satellite altimeter reporting Coord : (0,1)
+
+Communication Time (seconds): 0.02059
+Total Messages send between reporting node and base station: 6
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 26
+Logged time: 2021-10-18 18:55:35
+Alert reported time: 2021-10-18 18:55:35
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+2	        		(0,2)		6084.891	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		6180.744	127.0.1.1
+1	        		(0,1)		6092.276	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:13
+Satellite altimeter reporting height (m): 6188.781
+Satellite altimeter reporting Coord : (0,2)
+
+Communication Time (seconds): 0.08396
+Total Messages send between reporting node and base station: 6
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 26
+Logged time: 2021-10-18 18:55:35
+Alert reported time: 2021-10-18 18:55:35
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+7	        		(2,1)		6049.810	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		5978.589	127.0.1.1
+10	        		(3,1)		6024.035	127.0.1.1
+6	        		(2,0)		6279.689	127.0.1.1
+8	        		(2,2)		5945.543	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.09110
+Total Messages send between reporting node and base station: 5
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 26
+Logged time: 2021-10-18 18:55:35
+Alert reported time: 2021-10-18 18:55:35
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+10	        		(3,1)		6024.035	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+7	        		(2,1)		6049.810	127.0.1.1
+9	        		(3,0)		5738.781	127.0.1.1
+11	        		(3,2)		6012.044	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:21
+Satellite altimeter reporting height (m): 6372.930
+Satellite altimeter reporting Coord : (3,1)
+
+Communication Time (seconds): 0.17209
+Total Messages send between reporting node and base station: 7
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 26
+Logged time: 2021-10-18 18:55:35
+Alert reported time: 2021-10-18 18:55:35
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+11	        		(3,2)		6012.044	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+8	        		(2,2)		5945.543	127.0.1.1
+10	        		(3,1)		6024.035	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:31
+Satellite altimeter reporting height (m): 6415.249
+Satellite altimeter reporting Coord : (3,2)
+
+Communication Time (seconds): 0.06622
+Total Messages send between reporting node and base station: 5
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 27
+Logged time: 2021-10-18 18:55:40
+Alert reported time: 2021-10-18 18:55:40
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+1	        		(0,1)		6034.375	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		5897.030	127.0.1.1
+0	        		(0,0)		6043.188	127.0.1.1
+2	        		(0,2)		6118.521	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:33
+Satellite altimeter reporting height (m): 6024.547
+Satellite altimeter reporting Coord : (0,1)
+
+Communication Time (seconds): 0.02520
+Total Messages send between reporting node and base station: 7
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 28
+Logged time: 2021-10-18 18:55:45
+Alert reported time: 2021-10-18 18:55:45
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+1	        		(0,1)		6077.105	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		6014.354	127.0.1.1
+0	        		(0,0)		5994.207	127.0.1.1
+2	        		(0,2)		6052.686	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:33
+Satellite altimeter reporting height (m): 6024.547
+Satellite altimeter reporting Coord : (0,1)
+
+Communication Time (seconds): 0.00526
+Total Messages send between reporting node and base station: 8
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 30
+Logged time: 2021-10-18 18:55:56
+Alert reported time: 2021-10-18 18:55:56
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+5	        		(1,2)		6024.938	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+2	        		(0,2)		6009.254	127.0.1.1
+8	        		(2,2)		5879.612	127.0.1.1
+4	        		(1,1)		5983.077	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:27
+Satellite altimeter reporting height (m): 6447.748
+Satellite altimeter reporting Coord : (1,2)
+
+Communication Time (seconds): 0.02017
+Total Messages send between reporting node and base station: 12
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 33
+Logged time: 2021-10-18 18:56:11
+Alert reported time: 2021-10-18 18:56:11
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+10	        		(3,1)		6030.715	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+7	        		(2,1)		5957.012	127.0.1.1
+9	        		(3,0)		5993.700	127.0.1.1
+11	        		(3,2)		5937.808	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:58
+Satellite altimeter reporting height (m): 6252.678
+Satellite altimeter reporting Coord : (3,1)
+
+Communication Time (seconds): 0.03719
+Total Messages send between reporting node and base station: 8
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 34
+Logged time: 2021-10-18 18:56:16
+Alert reported time: 2021-10-18 18:56:16
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+8	        		(2,2)		6034.759	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		5881.419	127.0.1.1
+11	        		(3,2)		6031.785	127.0.1.1
+7	        		(2,1)		5961.854	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:55:29
+Satellite altimeter reporting height (m): 6304.607
+Satellite altimeter reporting Coord : (2,2)
+
+Communication Time (seconds): 0.04459
+Total Messages send between reporting node and base station: 5
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 35
+Logged time: 2021-10-18 18:56:21
+Alert reported time: 2021-10-18 18:56:21
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+3	        		(1,0)		6022.858	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+0	        		(0,0)		6175.868	127.0.1.1
+6	        		(2,0)		6079.678	127.0.1.1
+4	        		(1,1)		6103.667	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:56:12
+Satellite altimeter reporting height (m): 6012.382
+Satellite altimeter reporting Coord : (1,0)
+
+Communication Time (seconds): 0.04372
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 36
+Logged time: 2021-10-18 18:56:26
+Alert reported time: 2021-10-18 18:56:26
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+6	        		(2,0)		6081.233	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+3	        		(1,0)		6049.872	127.0.1.1
+9	        		(3,0)		6126.497	127.0.1.1
+7	        		(2,1)		5854.340	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:56:18
+Satellite altimeter reporting height (m): 6089.042
+Satellite altimeter reporting Coord : (2,0)
+
+Communication Time (seconds): 0.02104
+Total Messages send between reporting node and base station: 3
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 37
+Logged time: 2021-10-18 18:56:32
+Alert reported time: 2021-10-18 18:56:32
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+1	        		(0,1)		6045.657	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		6139.340	127.0.1.1
+0	        		(0,0)		6175.487	127.0.1.1
+2	        		(0,2)		6007.801	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:56:28
+Satellite altimeter reporting height (m): 6129.739
+Satellite altimeter reporting Coord : (0,1)
+
+Communication Time (seconds): 0.05915
+Total Messages send between reporting node and base station: 9
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 37
+Logged time: 2021-10-18 18:56:32
+Alert reported time: 2021-10-18 18:56:32
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+2	        		(0,2)		6007.801	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+5	        		(1,2)		5911.483	127.0.1.1
+1	        		(0,1)		6045.657	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:56:16
+Satellite altimeter reporting height (m): 6228.678
+Satellite altimeter reporting Coord : (0,2)
+
+Communication Time (seconds): 0.01150
+Total Messages send between reporting node and base station: 7
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 37
+Logged time: 2021-10-18 18:56:32
+Alert reported time: 2021-10-18 18:56:32
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+3	        		(1,0)		6076.157	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+0	        		(0,0)		6175.487	127.0.1.1
+6	        		(2,0)		6181.905	127.0.1.1
+4	        		(1,1)		6139.340	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:56:12
+Satellite altimeter reporting height (m): 6012.382
+Satellite altimeter reporting Coord : (1,0)
+
+Communication Time (seconds): 0.07045
+Total Messages send between reporting node and base station: 5
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 37
+Logged time: 2021-10-18 18:56:32
+Alert reported time: 2021-10-18 18:56:32
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+4	        		(1,1)		6139.340	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+1	        		(0,1)		6045.657	127.0.1.1
+7	        		(2,1)		5750.498	127.0.1.1
+3	        		(1,0)		6076.157	127.0.1.1
+5	        		(1,2)		5911.483	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:56:00
+Satellite altimeter reporting height (m): 6110.797
+Satellite altimeter reporting Coord : (1,1)
+
+Communication Time (seconds): 0.05431
+Total Messages send between reporting node and base station: 10
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Iteration: 38
+Logged time: 2021-10-18 18:56:37
+Alert reported time: 2021-10-18 18:56:37
+Alert type: Match
+
+Reporting Node     	Coord		Height(m)	IPv4
+1	        		(0,1)		6006.093	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		6189.351	127.0.1.1
+0	        		(0,0)		6070.548	127.0.1.1
+2	        		(0,2)		6031.564	127.0.1.1
+
+Satellite altimeter reporting time: 2021-10-18 18:56:22
+Satellite altimeter reporting height (m): 6055.801
+Satellite altimeter reporting Coord : (0,1)
+
+Communication Time (seconds): 0.03413
+Total Messages send between reporting node and base station: 10
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+
+**********************************Summary**************************************
+Termination Result: Terminated normally
+
+Time taken for the base station (seconds): 276.248
+Total communication time (seconds): 2.526
+Average communication time (seconds): 0.036
+
+Total number of alerts     	Number of TRUE alerts		Number of FALSE alertS
+71	                		13	                    	58	
+*******************************************************************************

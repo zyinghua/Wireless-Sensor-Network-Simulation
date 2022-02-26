@@ -1,0 +1,192 @@
+******************************************************
+Base Station Log File:
+Number of sensor nodes: 12. Grid Dimension = [4 x 3]
+Threshold: 6000
+Number of Base Station Iterations: 20
+******************************************************
+-----------------------------------------------------------------------
+Iteration: 1
+Logged time: 2021-10-18 19:04:16
+Alert reported time: 2021-10-18 19:04:16
+Alert type: Mismatch
+
+Reporting Node     	Coord		Height(m)	IPv4
+1	        		(0,1)		6056.271	127.0.1.1
+
+Adjacent Nodes		Coord		Height (m)	IPv4
+4	        		(1,1)		5998.566	127.0.1.1
+0	        		(0,0)		6014.317	127.0.1.1
+2	        		(0,2)		5915.171	127.0.1.1
+
+No latest data from the satellite altimeter regarding this sensor node...
+
+Communication Time (seconds): 0.01658
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Time tolerance range between satellite altimeter and reporting node (seconds): 15
+-----------------------------------------------------------------------
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^FAULT DETECTED^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Detected Node     	Coord		IPv4
+4	        		(1,1)		127.0.1.1
+
+No alert has been received from this sensor node...
+
+Estimated time of failure: 6.004
+
+Neighborhood Sensor Nodes:
+Node      	        Coord		IPv4
+1	        		(0,1)		127.0.1.1
+7	        		(2,1)		127.0.1.1
+3	        		(1,0)		127.0.1.1
+5	        		(1,2)		127.0.1.1
+
+Source: Fault detected by the 'Alive' messages checking thread
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^FAULT DETECTED^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Detected Node     	Coord		IPv4
+5	        		(1,2)		127.0.1.1
+
+No alert has been received from this sensor node...
+
+Estimated time of failure: 6.004
+
+Neighborhood Sensor Nodes:
+Node      	        Coord		IPv4
+2	        		(0,2)		127.0.1.1
+8	        		(2,2)		127.0.1.1
+4	        		(1,1)		127.0.1.1
+
+Source: Fault detected by the 'Alive' messages checking thread
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^FAULT DETECTED^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Detected Node     	Coord		IPv4
+6	        		(2,0)		127.0.1.1
+
+No alert has been received from this sensor node...
+
+Estimated time of failure: 6.004
+
+Neighborhood Sensor Nodes:
+Node      	        Coord		IPv4
+3	        		(1,0)		127.0.1.1
+9	        		(3,0)		127.0.1.1
+7	        		(2,1)		127.0.1.1
+
+Source: Fault detected by the 'Alive' messages checking thread
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^FAULT DETECTED^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Detected Node     	Coord		IPv4
+7	        		(2,1)		127.0.1.1
+
+No alert has been received from this sensor node...
+
+Estimated time of failure: 6.004
+
+Neighborhood Sensor Nodes:
+Node      	        Coord		IPv4
+4	        		(1,1)		127.0.1.1
+10	        		(3,1)		127.0.1.1
+6	        		(2,0)		127.0.1.1
+8	        		(2,2)		127.0.1.1
+
+Source: Fault detected by the 'Alive' messages checking thread
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^FAULT DETECTED^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Detected Node     	Coord		IPv4
+8	        		(2,2)		127.0.1.1
+
+No alert has been received from this sensor node...
+
+Estimated time of failure: 6.004
+
+Neighborhood Sensor Nodes:
+Node      	        Coord		IPv4
+5	        		(1,2)		127.0.1.1
+11	        		(3,2)		127.0.1.1
+7	        		(2,1)		127.0.1.1
+
+Source: Fault detected by the 'Alive' messages checking thread
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^FAULT DETECTED^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Detected Node     	Coord		IPv4
+9	        		(3,0)		127.0.1.1
+
+No alert has been received from this sensor node...
+
+Estimated time of failure: 6.004
+
+Neighborhood Sensor Nodes:
+Node      	        Coord		IPv4
+6	        		(2,0)		127.0.1.1
+10	        		(3,1)		127.0.1.1
+
+Source: Fault detected by the 'Alive' messages checking thread
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^FAULT DETECTED^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Detected Node     	Coord		IPv4
+10	        		(3,1)		127.0.1.1
+
+No alert has been received from this sensor node...
+
+Estimated time of failure: 6.004
+
+Neighborhood Sensor Nodes:
+Node      	        Coord		IPv4
+7	        		(2,1)		127.0.1.1
+9	        		(3,0)		127.0.1.1
+11	        		(3,2)		127.0.1.1
+
+Source: Fault detected by the 'Alive' messages checking thread
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^FAULT DETECTED^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Detected Node     	Coord		IPv4
+11	        		(3,2)		127.0.1.1
+
+No alert has been received from this sensor node...
+
+Estimated time of failure: 6.004
+
+Neighborhood Sensor Nodes:
+Node      	        Coord		IPv4
+8	        		(2,2)		127.0.1.1
+10	        		(3,1)		127.0.1.1
+
+Source: Fault detected by the 'Alive' messages checking thread
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+**********************************Summary**************************************
+Termination Result: Terminated due to fault(s)
+
+Time taken for the base station (seconds): 7.355
+Total communication time (seconds): 0.017
+Average communication time (seconds): 0.017
+
+Total number of alerts     	Number of TRUE alerts		Number of FALSE alertS
+1	                		0	                    	1	
+*******************************************************************************
